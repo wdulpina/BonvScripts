@@ -14,14 +14,14 @@
 #############################
 # Variables (Can be changed depends on your preferred values)
 # Script name
-MyScriptName='Bonveio'
+MyScriptName='phSlicer'
 
 # OpenSSH Ports
 SSH_Port1='22'
 SSH_Port2='225'
 
 # Your SSH Banner
-SSH_Banner='https://pastebin.com/raw/LUHJuPmr'
+SSH_Banner='https://pastebin.com/raw/Tv0cgm9Z'
 
 # Dropbear Ports
 Dropbear_Port1='550'
